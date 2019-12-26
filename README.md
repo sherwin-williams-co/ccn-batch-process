@@ -48,8 +48,8 @@
 
 ### Below are repositories that contains the code that is used by this API
 
-[ccnCyberArkCerts](https://github.sherwin.com/jxc517/ccnCyberArkCerts) : Maintain raw certs & shell scripts to handle their credentials
+[ccn-cyber-ark-certs](https://github.sherwin.com/jxc517/ccn-cyber-ark-certs) : Maintain raw certs & shell scripts to handle their credentials
 
-[cryptographUtility](https://github.sherwin.com/jxc517/cryptographUtility) : Contains code to decrypt encrypted credentials
+[cryptography-utility](https://github.sherwin.com/jxc517/cryptography-utility) : Contains code to decrypt encrypted credentials
 
-[cyberArkVault](https://github.sherwin.com/jxc517/cyberArkVault) : Contains code to make HTTP requests to CyberArk using CCP
+[cyber-ark-http-interface](https://github.sherwin.com/jxc517/cyber-ark-http-interface) : Contains code to make HTTP requests to CyberArk using CCP
